@@ -1,1 +1,1 @@
-print("Projeto Git - Página Principal")
+print("bem-vido ao projeto Git!")
